@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+bitnet158.egg-info/PKG-INFO
+bitnet158.egg-info/SOURCES.txt
+bitnet158.egg-info/dependency_links.txt
+bitnet158.egg-info/top_level.txt
+test/test_grad.py
+test/test_inference.py
+test/test_inject.py
